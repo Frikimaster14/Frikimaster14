@@ -1,6 +1,7 @@
 # Desafios personales
 > En este apartado se consideraran los desafios para programar
-"""
-Explorar ramas de otros proyectos
-Trabajar en problemas
-"""
+```
+Trabajar con Problemas
+Colaborar con otros
+Contribuir en proyecto a codigo abierto
+```
